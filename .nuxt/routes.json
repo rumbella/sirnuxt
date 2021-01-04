@@ -1,0 +1,25 @@
+[
+  {
+    "name": "_tailwind",
+    "path": "/_tailwind",
+    "component": "/Users/lapo/sirdoc-svelte/sirnuxt/node_modules/@nuxtjs/tailwindcss/lib/ui/pages/index.vue"
+  },
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/lapo/sirdoc-svelte/sirnuxt/pages/about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "intro",
+    "path": "/intro",
+    "component": "/Users/lapo/sirdoc-svelte/sirnuxt/pages/intro.vue",
+    "chunkName": "pages/intro"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/lapo/sirdoc-svelte/sirnuxt/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
